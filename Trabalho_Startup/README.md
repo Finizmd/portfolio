@@ -42,7 +42,7 @@ Nossa startup atende pessoas que buscam informações médicas confiáveis antes
 
 <img src = "img/publico_alvo.png">
 
-Com essa solução, ajudamos a população a tomar decisões mais seguras e melhoramos a eficiência do sistema de saúde
+Com essa solução, ajudamos a população a tomar decisões mais seguras e melhoramos a eficiência do sistema de saúde.
 
 ## Persona
 ### Definição
@@ -68,6 +68,6 @@ Até que um dia passou mal e foi levada ao hospital. O diagnóstico foi devastad
 
 Se Mariana tivesse acesso a uma plataforma de pré-diagnóstico como a nossa, sua jornada poderia ter sido outra. Desde os primeiros sintomas, ela poderia ter recebido um alerta sobre a gravidade do seu quadro e a importância de procurar um médico rapidamente.
 
-### Como ela usaria a plataforma?
+### Como Mariana Usaria a Nossa Plataforma?
 
-Se Mariana tivesse acesso à nossa plataforma, ela poderia registrar seus sintomas, como dores de cabeça e tontura, e receber uma análise precisa com base em dados médicos confiáveis. A plataforma alertaria sobre a gravidade da condição e a recomendaria a procurar ajuda médica imediatamente. Com orientações claras, ela teria agido mais rápido, aumentando as chances de um tratamento eficaz e evitando complicações.
+Se Mariana tivesse acesso à uma plataforma como a nossa, ela poderia registrar seus sintomas, como dores de cabeça e tontura, e receber uma análise precisa com base em dados médicos confiáveis. A plataforma alertaria sobre a gravidade da condição e a recomendaria a procurar ajuda médica imediatamente. Com orientações claras, ela teria agido mais rápido, aumentando as chances de um tratamento eficaz e evitando complicações.
