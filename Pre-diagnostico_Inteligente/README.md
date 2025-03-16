@@ -16,8 +16,12 @@ Hoje muitas pessoas enfrentam longas filas para consultas, enquanto outras seque
 
 ## A Solução
 Meu grupo e eu criamos o **Pr**é-diagnóstico **Int**eligente - PrInt, uma plataforma de pré-diagnóstico médico. O PrInt utiliza _Inteligência Artificial_ para fornecer pré-diagnósticos de sintomas e condições de saúde, classificando o risco e conectando os usuários aos especialistas mais adequados de maneira acessível, rápida e eficiente. **Nosso objetivo é facilitar a detecção precoce de doenças, otimizar a triagem médica, reduzir filas e melhorar a eficiência do sistema de saúde**.
+<div style="text-align: center;">
+    <img src="img/dr_wanderley.png" width="650">
+</div>
+<br>
 
-# Pesquisa de Mercado
+## Pesquisa de Mercado
 A busca por informações médicas na internet é uma prática amplamente difundida entre os brasileiros. De acordo com uma pesquisa realizada pelo Minuto Saudável, [94,4% dos internautas no Brasil procuram informações de saúde online](https://santeconsulting.com.br/saude-na-internet/), sendo que a maioria dessas consultas está relacionada a sintomas, tratamentos de doenças, medicamentos e bulas.
 
 Além disso, um estudo mais recente destaca que [90% dos pacientes buscam informações sobre saúde na internet](https://medicinasa.com.br/doctoralia-medsa26/), chegando às consultas já com de dados obtidos em suas pesquisas.
@@ -28,8 +32,8 @@ Outra iniciativa é a [InformAI](https://blog.dsacademy.com.br/8-startups-de-ia-
 
 Essas soluções visam fornecer informações mais precisas e personalizadas aos usuários, reduzindo os riscos associados à automedicação e melhorando a eficiência dos serviços de saúde. No entanto, é essencial que essas ferramentas sejam desenvolvidas em conformidade com as regulamentações de saúde e privacidade de dados, garantindo a segurança e a confiabilidade das informações fornecidas aos pacientes.
 
-# Público Alvo
-Nossa startup atende pessoas que buscam informações médicas confiáveis antes de procurar por um atendimento médico. Utilizamos inteligência artificial para fornecer um pré-diagnóstico de sintomas e condições de saúde, classificando o risco e conectando os usuários aos especialistas mais adequados de maneira acessível, rápida e eficiente.
+## Público Alvo
+Nossa startup atende pessoas que buscam informações médicas confiáveis antes de procurar por um atendimento médico. Utilizamos **inteligência artificial** para fornecer um pré-diagnóstico de sintomas e condições de saúde, classificando o risco e conectando os usuários aos especialistas mais adequados de maneira fácil, acessível, rápida e eficiente.
 
 **Nosso Público**:
 - Pessoas que buscam entender sintomas antes de procurar um hospital.
@@ -37,6 +41,8 @@ Nossa startup atende pessoas que buscam informações médicas confiáveis antes
 - Pessoas com acesso limitado Dificuldade para marcar consultas médicas.
 - Hospitais públicos e privados, planos de saúde e clínicas que buscam otimizar atendimentos e reduzir os custos de operação.
 
-Com essa solução, ajudamos a população a tomar decisões mais seguras e melhoramos a eficiência do sistema de saúde.
+<img src = "img/publico_alvo.png">
 
-<img src = Pre-diagnostico_Inteligente\imgs\publico_alvo.png>
+Com essa solução, ajudamos a população a tomar decisões mais seguras e melhoramos a eficiência do sistema de saúde
+
+## Persona
