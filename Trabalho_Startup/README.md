@@ -1,4 +1,4 @@
-# Introdução
+# Introdução ao Projeto
 Devemos criar uma startup que envolva tecnologia, incorporando todos os elementos essenciais de uma empresa inovadora.
 
 Este projeto está sendo desenvolvido para do curso de Análise e Desenvolvimento de Sistemas da **Proz Educação**, como parte da **5ª edição** do [Trilhas do Futuro](https://www.trilhasdefuturo.mg.gov.br/), um programa do _Governo do Estado de Minas Gerais_.
@@ -17,7 +17,7 @@ Hoje muitas pessoas enfrentam longas filas para consultas, enquanto outras seque
 ## A Solução
 Meu grupo e eu criamos o **Pr**é-diagnóstico **Int**eligente - PrInt, uma plataforma de pré-diagnóstico médico. O PrInt utiliza _Inteligência Artificial_ para fornecer pré-diagnósticos de sintomas e condições de saúde, classificando o risco e conectando os usuários aos especialistas mais adequados de maneira acessível, rápida e eficiente. **Nosso objetivo é facilitar a detecção precoce de doenças, otimizar a triagem médica, reduzir filas e melhorar a eficiência do sistema de saúde**.
 <div style="text-align: center;">
-    <img src="img/dr_wanderley.png" width="650">
+    <img src="img/dr_wanderley.png" width="400">
 </div>
 <br>
 
@@ -38,7 +38,6 @@ Nossa startup atende pessoas que buscam informações médicas confiáveis antes
 **Nosso Público**:
 - Pessoas que buscam entender sintomas antes de procurar um hospital.
 - Pais e responsáveis que precisam avaliar sintomas de crianças e idosos rapidamente.
-- Pessoas com acesso limitado Dificuldade para marcar consultas médicas.
 - Hospitais públicos e privados, planos de saúde e clínicas que buscam otimizar atendimentos e reduzir os custos de operação.
 
 <img src = "img/publico_alvo.png">
@@ -46,3 +45,29 @@ Nossa startup atende pessoas que buscam informações médicas confiáveis antes
 Com essa solução, ajudamos a população a tomar decisões mais seguras e melhoramos a eficiência do sistema de saúde
 
 ## Persona
+### Definição
+
+Uma persona é a representação fictícia do seu cliente ideal, baseada em dados reais sobre comportamento, dores, necessidades e hábitos. Diferente do público-alvo, que é mais amplo, a persona é detalhada, incluindo nome, idade, profissão, estilo de vida e desafios específicos.
+
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="img/mariana.png" width="300">  
+  
+**Nome**: Mariana Souza  <br>  
+**Idade**: 23 anos  <br>  
+ **Profissão**: Assistente Administrativo  <br>  
+**Localização**: Belo Horizonte - MG  
+</div>
+
+### O Problema de Mariana
+Mariana Souza, 23 anos, sofreu por meses com dores de cabeça, tonturas e náuseas, mas acreditava que era apenas estresse. Com medo de um diagnóstico grave, adiou a busca por ajuda médica.
+
+Até que um dia passou mal e foi levada ao hospital. O diagnóstico foi devastador: tumor cerebral de [nível 4 (OMS)](https://venceonco.com.br/entenda-os-estagios-do-cancer/). Um problema que poderia ter sido identificado e tratado antes, mas a falta de informação a impediu de agir a tempo.
+
+### O que ela Precisa?
+
+Se Mariana tivesse acesso a uma plataforma de pré-diagnóstico como a nossa, sua jornada poderia ter sido outra. Desde os primeiros sintomas, ela poderia ter recebido um alerta sobre a gravidade do seu quadro e a importância de procurar um médico rapidamente.
+
+### Como ela usaria a plataforma?
+
+Se Mariana tivesse acesso à nossa plataforma, ela poderia registrar seus sintomas, como dores de cabeça e tontura, e receber uma análise precisa com base em dados médicos confiáveis. A plataforma alertaria sobre a gravidade da condição e a recomendaria a procurar ajuda médica imediatamente. Com orientações claras, ela teria agido mais rápido, aumentando as chances de um tratamento eficaz e evitando complicações.
