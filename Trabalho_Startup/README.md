@@ -53,9 +53,9 @@ Uma persona é a representação fictícia do seu cliente ideal, baseada em dado
 <div style="display: flex; align-items: center; gap: 10px;">
   <img src="img/mariana.png" width="300">  
   
-**Nome**: Mariana Souza  <br>  
-**Idade**: 23 anos  <br>  
- **Profissão**: Assistente Administrativo  <br>  
+**Nome**: Mariana Souza <br>  
+**Idade**: 23 anos <br>  
+ **Profissão**: Assistente Administrativo <br>  
 **Localização**: Belo Horizonte - MG  
 </div>
 
@@ -64,10 +64,8 @@ Mariana Souza, 23 anos, sofreu por meses com dores de cabeça, tonturas e náuse
 
 Até que um dia passou mal e foi levada ao hospital. O diagnóstico foi devastador: tumor cerebral de [nível 4 (OMS)](https://venceonco.com.br/entenda-os-estagios-do-cancer/). Um problema que poderia ter sido identificado e tratado antes, mas a falta de informação a impediu de agir a tempo.
 
-### O que ela Precisa?
-
-Se Mariana tivesse acesso a uma plataforma de pré-diagnóstico como a nossa, sua jornada poderia ter sido outra. Desde os primeiros sintomas, ela poderia ter recebido um alerta sobre a gravidade do seu quadro e a importância de procurar um médico rapidamente.
-
 ### Como Mariana Usaria a Nossa Plataforma?
-
 Se Mariana tivesse acesso à uma plataforma como a nossa, ela poderia registrar seus sintomas, como dores de cabeça e tontura, e receber uma análise precisa com base em dados médicos confiáveis. A plataforma alertaria sobre a gravidade da condição e a recomendaria a procurar ajuda médica imediatamente. Com orientações claras, ela teria agido mais rápido, aumentando as chances de um tratamento eficaz e evitando complicações.
+
+## Bussiness Model Canvas
+<img src = "img/bmc.png">
