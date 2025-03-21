@@ -1,10 +1,6 @@
 # Introdução ao Projeto
 Devemos criar uma startup que envolva tecnologia, incorporando todos os elementos essenciais de uma empresa inovadora.
 
-Este projeto está sendo desenvolvido para do curso de Análise e Desenvolvimento de Sistemas da **Proz Educação**, como parte da **5ª edição** do [Trilhas do Futuro](https://www.trilhasdefuturo.mg.gov.br/), um programa do _Governo do Estado de Minas Gerais_.
-
-**Escola**: [Proz Educação](https://prozeducacao.com.br/) | **Professor**: [Wanderley Lopes Batista](https://capacidadevirtual.blogspot.com/p/curriculo-prof-wanderley_20.html) | **Turma**: 251AM
-
 **Membros do grupo**:
 - Cintia
 - Mateus & Kauan 
